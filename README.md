@@ -9,15 +9,17 @@
 |  Mac OS  | 桌面版 Firefox 浏览器 | 56+                | ✔          | ✔            | ✖            | ✔            | ✔                                            |
 |  Mac OS  |      桌面版Edge       | 80+                | ✔          | ✔            | ✔            | ✔            | ✔                                            |
 | Windows  | 桌面版 Chrome 浏览器  | 56+                | ✔          | ✔            | ✔            | ✔            | ✔                                            |
-| Windows  |   桌面版 QQ 浏览器（使用极速模式）    | 10.4+               | ✔          | ✔            | ✔            | ✔            | ✔                                            |
+| Windows  |   桌面版 QQ 浏览器（极速模式）    | 10.4+               | ✔          | ✔            | ✔            | ✔            | ✔                                            |
 | Windows  | 桌面版 Firefox 浏览器 | 56+                | ✔          | ✔            | ✖            | ✔            | ✔                                            |
 | Windows  |      桌面版Edge       | 80+                | ✔          | ✔            | ✔            | ✔            | ✔                                            |
 |   iOS    | 移动版 Safari 浏览器  | 14+                | ✔          | ✖            | ✖            | ✖            | ✖                                            |
 |   iOS    |     微信内嵌网页      | ✖                  |            |              |              |              |                                              |
-| Android  | 移动版 Chrome 浏览器  | ✖                  |            |              |              |              |                                              |
-| Android  |     微信内嵌网页      | ✖                  |            |              |              |              |                                              |
-| Android  |   移动版 QQ 浏览器    | ✖                  |            |              |              |              |                                              |
+| Android  | 移动版 Chrome 浏览器  | 81+                  | ✔          | ✔            | ✔            | ✔            | ✔                                             |
+| Android  |     微信内嵌网页(TBS内核)      |  ✔               |    ✔        |    ✔           |   ✔          |   ✔          | ✖                                            |
+| Android  |   移动版 QQ 浏览器    | ✖                 |            |              |              |              |                                              |
 
+**注意事项**
+- 内嵌 WebView 的应用和 Chrome 浏览器对增加背景音乐功能的支持度，都与设备对 Web Audio API 的支持度有关。
 
 ## 功能描述
 
